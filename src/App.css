@@ -1,0 +1,106 @@
+.header {
+  color: #fff;
+  background-color: #996600;
+}
+
+.links a {
+  color: #fff;
+  padding: 0 16px;
+}
+
+.product {
+  width: 360px;
+  height: auto;
+  padding: 10px;
+  border: 2px solid #996600;
+  margin: 8px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.product img {
+  margin: 0 auto;
+}
+
+.product h4 {
+  color: #996600;
+  margin: 10px 0;
+  text-align: justify;
+}
+
+.product p {
+  text-align: justify;
+  margin: 10px 0;
+}
+
+.product h2 {
+  padding: 5px 0;
+  background-color: #dddddd;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.product h3 {
+  margin: 10px 0;
+}
+
+.product button {
+  color: #fff;
+  background-color: #996600;
+  padding: 4px 10px;
+  border-radius: 10px;
+  transition: 0.5s;
+  border: 2px solid #996600;
+}
+
+.product button:hover {
+  border: 2px solid #996600;
+  background-color: #fff;
+  color: #996600;
+}
+
+.pd button {
+  color: #fff;
+  background-color: #996600;
+  padding: 4px 10px;
+  border-radius: 10px;
+  transition: 0.5s;
+  border: 2px solid #996600;
+}
+
+.pd button:hover {
+  border: 2px solid #996600;
+  background-color: #fff;
+  color: #996600;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.footer {
+  color: #fff;
+  background-color: #996600;
+}
+
+form input {
+  color: #fff;
+  background-color: #996600;
+  outline: none;
+  padding: 2px 8px;
+  border-radius: 10px;
+  width: 240px;
+}
+
+.auth button {
+  color: #fff;
+  background-color: #996600;
+  margin: 4px 0;
+  padding: 2px 0;
+  border-radius: 10px;
+  width: 80px;
+}
